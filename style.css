@@ -1,0 +1,22 @@
+body{
+    background-color:#55bcc9 !important;
+    text-align: center;
+}
+.dispay-4{
+    color: #05386b; !important;
+    font-weight: lighter !important;
+    font-family: 'Yellowtail', cursive !important;
+}
+h2{
+    color:#f64c72;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+}
+button{
+    color: #cafafe;
+    background-color: #fc4445;
+    width: 200px;
+    height: 70px;
+    font-size: 40px !important;
+}
